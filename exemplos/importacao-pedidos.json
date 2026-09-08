@@ -1,0 +1,27 @@
+[
+  {
+    "cliente": "Ada Lovelace",
+    "itens": [
+      {
+        "produto": "Teclado mecânico",
+        "quantidade": 1,
+        "valorUnitario": 350.00
+      },
+      {
+        "produto": "Mouse sem fio",
+        "quantidade": 2,
+        "valorUnitario": 120.00
+      }
+    ]
+  },
+  {
+    "cliente": "Grace Hopper",
+    "itens": [
+      {
+        "produto": "Monitor 27",
+        "quantidade": 2,
+        "valorUnitario": 1450.00
+      }
+    ]
+  }
+]

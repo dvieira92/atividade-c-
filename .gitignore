@@ -1,0 +1,18 @@
+# Build
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Rider / VS Code
+.idea/
+.vscode/
+
+# Banco local
+*.mdf
+*.ldf
